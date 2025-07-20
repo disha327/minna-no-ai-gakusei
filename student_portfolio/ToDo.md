@@ -1,0 +1,4 @@
+- [ ] Joined Discord
+- [ ] Cloned this repo
+- [ ] Ran my first AI model!
+- [ ] Passed NCA-GENL 🧠💥
